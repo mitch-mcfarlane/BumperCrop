@@ -25,7 +25,3 @@ BumperCrop does not use any third-party analytics, advertising, or tracking serv
 ## Changes to this policy
 
 If this policy changes, the updated version will be posted here with a new date.
-
-## Contact
-
-Questions about this policy? Reach out at [you@example.com](mailto:you@example.com).
